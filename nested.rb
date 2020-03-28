@@ -40,11 +40,11 @@ def alan_kay_is_known_for
         },
         :dennis_ritchie => {
           :known_for => "Unix",
-          :languages => ["C"]
+          :languages => "C"
         }
      }
 
-    programmer_hash[:alan_kay][:known_for][:languages][0]
+    programmer_hash[:alan_kay][:known_for]
 end
 
 def dennis_ritchies_language
