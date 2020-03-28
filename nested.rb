@@ -8,13 +8,13 @@ def hopper
           :languages => ["COBOL", "FORTRAN"]
         }
       },
-      :alan_kay_is_known_for=>{
+      alan_kay_is_known_for={
         :alan_kay => {
           :known_for => "Object Orientation",
           :languages => ["Smalltalk", "LISP"]
         }
       },
-      :dennis_ritchies_language=>{
+      dennis_ritchies_language={
         :dennis_ritchie => {
           :known_for => "Unix",
           :languages => ["C"]
